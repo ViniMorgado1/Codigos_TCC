@@ -5,7 +5,7 @@ Códigos de simulações e aplicações realizadas para um Trabalho de Conclusã
 Para rodar os códigos, é necessário ter as versões mais recentes do **R** e **RStudio** instaladas em seu sistema. Além disso, alguns pacotes do R são indispensáveis para o funcionamento adequado da execução. Certifique-se de instalar os pacotes listados abaixo:
 
 ```r
-install.packages(c("shiny", "tidyverse", "shinydashboard", "flexdashboard", "forcats", "randomForest"))
+install.packages(c("DirichletReg"))
 ```
 
 Os pacotes podem ser instalados diretamente no RStudio utilizando o código acima. Se você já tiver os pacotes instalados, é recomendado que verifique se estão atualizados para evitar incompatibilidades.
